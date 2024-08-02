@@ -44,7 +44,7 @@ With a proven track record in safeguarding systems and a continuous drive to exc
   <img align="left" alt="vjsparacello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
+-----------------------------------------------------------
 
 
 <h2> More about me:  </h2>
