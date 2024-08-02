@@ -37,11 +37,13 @@ With a proven track record in safeguarding systems and a continuous drive to exc
     
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Coming Soon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
-[<img align="left" alt="vjsparacello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+<a href="Coming Soon" target="_blank">
+  <img align="left" alt="Coming Soon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vincent-sparacellojr" target="_blank">
+  <img align="left" alt="vjsparacello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[YouTube]: Coming Soon
-[LinkedIn]: https://www.linkedin.com/in/vincent-sparacellojr
 
 
 
