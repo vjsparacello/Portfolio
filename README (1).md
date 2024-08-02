@@ -47,7 +47,7 @@ With a proven track record in safeguarding systems and a continuous drive to exc
 
 
 
-More about me:
+<h2> More about me:  </h2>
 
 - 🔭 I’m looking to begin Bug Bounty Programs
 - 🌱 I enjoy deploying and adminisering comprehensive cybersecurity programs and tools
